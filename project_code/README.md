@@ -1,4 +1,4 @@
-# Code Folder
+
 
 ## Overview
 This folder contains the core code for the project, including the Jupyter Notebook that performs both data preprocessing and machine learning model training.
