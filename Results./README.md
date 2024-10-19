@@ -31,11 +31,11 @@ This folder contains the results of the Customer Conversion Prediction project. 
 
 - **Decision Tree**: Visualization showing the number of correct and incorrect predictions for the Decision Tree model.
 
-  ![Decision Tree](path/to/decision_tree_confusion_matrix.png)
+  ![Decision Tree](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Results./Decision%20Tree.png)
 
 - **Logistic Regression**: Visualization showing the number of correct and incorrect predictions for the Logistic Regression model.
 
-  ![Logistic Regression](path/to/logistic_regression_confusion_matrix.png)
+  ![Logistic Regression](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Results./Logistic%20Regression.png)
 
 - **Job Distribution**: Job type distribution across the dataset.
   
