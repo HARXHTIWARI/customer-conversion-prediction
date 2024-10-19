@@ -41,6 +41,18 @@ This dataset is utilized in the **Customer Conversion Prediction** project to bu
 ### Notes
 - Ensure proper data preprocessing steps are followed before using this dataset for model training or evaluation.
 - Be mindful of any missing values or inconsistencies in the data.
+- ## Data Visualizations
+
+Here are some visualizations from the analysis:
+
+1. **Count of Jobs**:
+   
+   ![Count of Jobs](images/download%20(1).png)
+
+2. **Job Type vs. Conversion**:
+
+   ![Job Type vs. Conversion](images/download%20(2).png)
+
 
 ## License
 This dataset is available for use under the terms of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
