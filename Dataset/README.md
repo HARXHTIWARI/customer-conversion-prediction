@@ -47,14 +47,14 @@ Here are some visualizations from the analysis:
 
 1. **Count of Jobs**:
    
-   ![Count of Jobs](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/Count%20of%20Jobs.png)
+   ![Count of Jobs](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/images/Count%20of%20Jobs.png)
 
 2. **Job Type vs. Conversion**:
 
-   ![Job Type vs. Conversion](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/Job%20Type%20vs.%20Conversion.png)
+   ![Job Type vs. Conversion](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/images/Job%20Type%20vs.%20Conversion.png)
    
 3. **Distribution of Age**:
-    ![Distribution of Age](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/Distribution%20of%20Age.png)
+    ![Distribution of Age](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/images/Distribution%20of%20Age.png)
 
 ## License
 This dataset is available for use under the terms of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
