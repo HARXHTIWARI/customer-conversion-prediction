@@ -54,7 +54,7 @@ Here are some visualizations from the analysis:
    ![Job Type vs. Conversion](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/Job%20Type%20vs.%20Conversion.png)
    
 3. **Distribution of Age**:
-    ![Distribution of Age]([images/download%20(2).png](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/Distribution%20of%20Age.png))
+    ![Distribution of Age](https://github.com/HARXHTIWARI/customer-conversion-prediction/blob/main/Dataset/Distribution%20of%20Age.png)
 
 ## License
 This dataset is available for use under the terms of the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
